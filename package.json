@@ -1,0 +1,23 @@
+{
+  "name": "10-24classwork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "classactivity.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanseery/10-24classwork.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanseery/10-24classwork/issues"
+  },
+  "homepage": "https://github.com/ryanseery/10-24classwork#readme",
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}
